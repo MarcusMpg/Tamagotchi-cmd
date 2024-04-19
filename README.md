@@ -14,7 +14,7 @@
 
   ## 📜 Licença   
 
-O projeto publicado em 2024 sobre a licença [MIT]() ❤️ 
+O projeto publicado em 2024 sobre a licença [MIT](./LICENSE) ❤️ 
 
 Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
 

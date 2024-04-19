@@ -1,0 +1,7 @@
+C:\Users\marcu\source\repos\CursoDeMAUI\BixinhoVirtual\MeuTamagotchi\obj\Debug\MeuTamagotchi.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\CursoDeMAUI\BixinhoVirtual\MeuTamagotchi\obj\Debug\MeuTamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\CursoDeMAUI\BixinhoVirtual\MeuTamagotchi\bin\Debug\MeuTamagotchi.exe.config
+C:\Users\marcu\source\repos\CursoDeMAUI\BixinhoVirtual\MeuTamagotchi\bin\Debug\MeuTamagotchi.exe
+C:\Users\marcu\source\repos\CursoDeMAUI\BixinhoVirtual\MeuTamagotchi\bin\Debug\MeuTamagotchi.pdb
+C:\Users\marcu\source\repos\CursoDeMAUI\BixinhoVirtual\MeuTamagotchi\obj\Debug\MeuTamagotchi.exe
+C:\Users\marcu\source\repos\CursoDeMAUI\BixinhoVirtual\MeuTamagotchi\obj\Debug\MeuTamagotchi.pdb
